@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – </title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Britive Learn – Integrations</title>
+    <link>http://localhost:1313/learn-portal/</link>
+    <description>Recent content in Integrations on Britive Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 08:33:19 -0700</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/learn-portal/index.xml" rel="self" type="application/rss+xml" />
     
     
       
